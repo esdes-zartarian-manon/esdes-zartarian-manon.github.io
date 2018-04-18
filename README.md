@@ -27,7 +27,7 @@
  * Boutons d'articles
  
  > Image maquette page d'accueil
- ![](.img/acceuil.jpeg)
+ ![](./img/acceuil.jpeg)
  
 ```
 ARTICLE 1
