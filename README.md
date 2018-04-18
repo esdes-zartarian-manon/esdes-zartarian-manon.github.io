@@ -51,7 +51,7 @@ ARTICLE 2
 * Introduction
 * Article 
 > Image maquette page Article
-![](./img/article.jpeg)
+![](./img/article2.jpeg)
 
 ```
 ARTICLE 3 
