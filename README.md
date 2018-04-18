@@ -19,8 +19,6 @@
 * Pas de header ni de sidebar sur la page d'accueil
 * Header commun à toutes les pages d'articles
 
-
-
 ### Détaillée
 ```
  PAGE D'ACCUEIL 
@@ -42,7 +40,7 @@ ARTICLE 1
 * Introduction
 * Article 
 > Image maquette page Article
- ![](./img/article.jpeg)
+ ![](./img/article1.jpeg)
 
 ```
 ARTICLE 2
@@ -64,6 +62,6 @@ ARTICLE 3
 * Introduction
 * Article 
 > Image maquette page Article
-![](./img/article.jpeg)
+![](./img/article3.jpeg)
 
 
