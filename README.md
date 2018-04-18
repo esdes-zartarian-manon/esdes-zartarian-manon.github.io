@@ -31,40 +31,38 @@
  * Call to action : Boutons pour aller vers les articles
  
  > Image maquette page d'accueil
- ![](./img/acceuil1.jpeg)
- ![](./img/acceuil2.jpeg)
+ ![](./img/accueil1.jpg)
+ ![](./img/accueil2.jpg)
  
 ```
 ARTICLE 1
 ```
-![](https://www.aleou.fr/images/etablissements/9103/max/laverrieredescordeliersext.jpg)
+
 * Photo du thème de l'article 
 * Titre de l'article
 * Introduction
 * Article 
 > Image maquette page Article
- ![](./img/article1.jpeg)
+ ![](./img/article1.jpg)
 
 ```
 ARTICLE 2
 ```
 * Photo du thème de l'article 
-![](https://static4.pagesjaunes.fr/media/ugc/recrut_ing_03854400_093155988)
 * Titre de l'article
 * Introduction
 * Article 
 > Image maquette page Article
-![](./img/article2.jpeg)
+![](./img/article2.jpg)
 
 ```
 ARTICLE 3 
 ```
 * Photo du thème de l'article 
-![](http://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/02/Jager-Bottle-Only_InBar.png)
 * Titre de l'article
 * Introduction
 * Article 
 > Image maquette page Article
-![](./img/article3.jpeg)
+![](./img/article3.jpg)
 
 
