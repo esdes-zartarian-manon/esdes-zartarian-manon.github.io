@@ -22,9 +22,8 @@
 ```
  
  * Photo pour la mise en page 
- ![](http://wallpapersdsc.net/wp-content/uploads/2016/09/White-Flower-Wallpapers-HD.jpeg)
  * Titre
- * Boutons d'articles
+ * Call to action : Boutons pour aller vers les articles
  
  > Image maquette page d'accueil
  ![](./img/acceuil.jpeg)
@@ -32,8 +31,8 @@
 ```
 ARTICLE 1
 ```
-* Photo du thème de l'article 
 ![](https://www.aleou.fr/images/etablissements/9103/max/laverrieredescordeliersext.jpg)
+* Photo du thème de l'article 
 * Titre de l'article
 * Introduction
 * Article 
