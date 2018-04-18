@@ -16,7 +16,7 @@
 * Page 3 : Article 2 : Expérience 2 
 * Page 4 : Article 3 : Expérience 3
 
-* Pas de header ni de side bar sur la page d'accueil
+* Pas de header ni de sidebar sur la page d'accueil
 * Header commun à toutes les pages d'articles
 
 
