@@ -16,13 +16,18 @@
 * Page 3 : Article 2 : Expérience 2 
 * Page 4 : Article 3 : Expérience 3
 
+* Pas de header ni de side bar sur la page d'accueil
+* Header commun à toutes les pages d'articles
+
+
+
 ### Détaillée
 ```
  PAGE D'ACCUEIL 
 ```
  
  * Photo pour la mise en page 
- * Titre
+ * Titre : Manon ZARTARIAN
  * Call to action : Boutons pour aller vers les articles
  
  > Image maquette page d'accueil
