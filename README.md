@@ -18,6 +18,8 @@
 
 * Pas de header ni de sidebar sur la page d'accueil
 * Header commun à toutes les pages d'articles
+* La page d'accueil comporte une fonction Javascript
+
 
 ### Détaillée
 ```
@@ -29,7 +31,8 @@
  * Call to action : Boutons pour aller vers les articles
  
  > Image maquette page d'accueil
- ![](./img/acceuil.jpeg)
+ ![](./img/acceuil1.jpeg)
+ ![](./img/acceuil2.jpeg)
  
 ```
 ARTICLE 1
