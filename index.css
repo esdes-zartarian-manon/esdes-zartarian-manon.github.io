@@ -167,15 +167,24 @@ article{
 
  }
 
-  /* For Tablets */
-  @media only screen and (min-width: 600px) and (max-width: 768px) {
+/* fo mobiles only */
+@media only screen and (max-width:600px) {
+   
+    section {
+        flex-direction: column;
+    }
+    article{
+        width: 80%;
+    }}
+/* fo tablets only */
+@media only screen and (min-width:600px) and (max-width:768px) {
+    
+}
 
-  }
+/* fo destop only */
+@media only screen and (min-width:768px){
 
- /* For Ddesktop */
-  @media only screen and (min-width: 768px) {
-
-  }
+}
 
 header path {
     fill: transparent;
